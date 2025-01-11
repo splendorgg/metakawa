@@ -5,6 +5,7 @@ import About from '@/sections/About';
 import Explore from '@/sections/Explore';
 import GetStarted from '@/sections/GetStarted';
 import WhatsNew from '@/sections/WhatsNew';
+import World from '@/sections/World';
 export default function Home() {
   return (
     <div className='bg-primary-black overflow-hidden'>
@@ -19,6 +20,12 @@ export default function Home() {
         <GetStarted />
         <div className='gradient-04 z-0' />
         <WhatsNew />
+      </div>
+      <World />
+      <div className='relative'>
+        
+        <div className='gradient-04 z-0' />
+
       </div>
 
     </div>
