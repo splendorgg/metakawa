@@ -50,21 +50,21 @@ export const newFeatures = [
 export const insights = [
     {
         imgUrl: '/planet-06.png',
-        title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+        title: 'The Metaverse Revolution: A New Era of Innovation',
         subtitle:
-            'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+            'Discover how the metaverse is transforming industries and redefining the way we connect, work, and create in the digital world.',
     },
     {
         imgUrl: '/planet-07.png',
-        title: '7 tips to easily master the madness of the Metaverse',
+        title: '7 Essential Tips for Thriving in the Metaverse',
         subtitle:
-            'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+            'Learn practical strategies to navigate, explore, and excel in the dynamic and immersive world of the metaverse.',
     },
     {
         imgUrl: '/planet-08.png',
-        title: 'With one platform you can explore the whole world virtually',
+        title: 'Explore the World Virtually on a Single Platform',
         subtitle:
-            'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+            'Experience the wonders of the world like never before with a platform that brings global adventures to your fingertips.',
     },
 ];
 
