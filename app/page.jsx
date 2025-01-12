@@ -7,6 +7,7 @@ import GetStarted from '@/sections/GetStarted';
 import WhatsNew from '@/sections/WhatsNew';
 import World from '@/sections/World';
 import Insights from '@/sections/Insights';
+import Feedback from '@/sections/Feedback';
 export default function Home() {
   return (
     <div className='bg-primary-black overflow-hidden'>
@@ -26,7 +27,7 @@ export default function Home() {
       <div className='relative'>
         <Insights />
         <div className='gradient-04 z-0' />
-
+        <Feedback />
       </div>
 
     </div>
