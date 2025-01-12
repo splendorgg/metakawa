@@ -44,7 +44,6 @@ const World = () => {
                         </div>
                         <div className='absolute bottom-5 left-8  text-[18px] font-bold text-white'>Hawkins Labs</div>
                     </div>
-
                 </motion.div>
                 <div className='gradient-02 z-0' />
             </motion.div>
