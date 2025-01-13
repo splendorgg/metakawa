@@ -39,7 +39,7 @@ npm run dev
 ![ScreenShot](/public/readme/3.png)
 
 ### Mobile Menu
-![ScreenShot](/public/mobile.png)
+![ScreenShot](/public/readmeg/mobile.png)
 
 
 # Technologies Used
