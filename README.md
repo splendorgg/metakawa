@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Metakawa, Modern Metaverse Website</h1>
+
+# Overview
+Metakawa is an innovative platform crafted with Next.js, React.js, Tailwind CSS, and Motion, embracing the latest trends in UI/UX design. Its minimalist layout, smooth animations, and exceptional user experience set a high standard for modern web applications, offering valuable inspiration for future projects.
+
+
+## 🌐 Live Demo
+Check out the live version of the project: [**Live Site**](https://metakawa.vercel.app/)
+Explore the fully functional application and see it in action!
 
 ## Getting Started
+Ensure you have [Git](https://git-scm.com/) and [Node](https://nodejs.org/en) (v22.11.0) installed.
 
-First, run the development server:
-
+#### Clone this repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/splendorgg/metakawa.git
+cd metakawa
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+#### Run the project
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Project Walk-Through
 
-## Learn More
+### Landing Section
+![ScreenShot](/public/readme/2.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Worlds Section
+![ScreenShot](/public/readme/1.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Insight Section
+![ScreenShot](/public/readme/3.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Mobile Menu
+![ScreenShot](/public/mobile.png)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Technologies Used
+- **React**(v19)
+- **Nextjs**(v15.1.3)
+- **Framer motion**
+- **Vite**
+- **Tailwind CSS**
